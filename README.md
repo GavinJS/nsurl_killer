@@ -8,7 +8,7 @@ Please note that these services are used by myriad other foreground and backgrou
 
 ## Installing
 
-To install the tool, run the following command:
+To install the tool, run the following command in the terminal and then reboot:
 
 	/usr/bin/curl -sL "https://raw.githubusercontent.com/GavinJS/nsurl_killer/master/install.sh" | sudo /bin/sh --
 
