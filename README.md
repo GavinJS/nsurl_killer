@@ -2,7 +2,7 @@
 
 A startup script which kills 'nsurlsessiond' and 'nsurlstoraged' on OS X.  I wrote this tool in response to an overwhelming number of Mac users complaining that these background services routinely download huge amounts of data over metered connections.
 
-Please note that these services are used by myriad other forebackground and background applications including the Mac App Store.  Disabling them may cause adverse side-effects.
+Please note that these services are used by myriad other foreground and background applications including the Mac App Store.  Disabling them may cause adverse side-effects.
 
 !!!This tool is provided as is with absolutely no warranty, support or liability.
 
