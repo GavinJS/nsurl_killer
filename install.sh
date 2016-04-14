@@ -5,7 +5,7 @@
 
 chown root /Users/Shared/bin/nsurl_killer.plist
 chmod 644 /Users/Shared/bin/nsurl_killer.plist
-chmod 744 /Users/Shared/bin/nsurl_killer.sh
+chmod 755 /Users/Shared/bin/nsurl_killer.sh
 
 ln -s /Users/Shared/bin/nsurl_killer.plist /Library/LaunchAgents/nsurl_killer.plist
 ln -s /Users/Shared/bin/nsurl_killer.plist /Library/LaunchDaemons/nsurl_killer.plist
